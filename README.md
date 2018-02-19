@@ -1,0 +1,2 @@
+# stringisnumber.py
+stringofnum
